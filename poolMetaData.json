@@ -2,12 +2,13 @@
 "name": "Whale Zone / Low fees",
 "description": "A best pool for earn ! Come and earn more if you have our NFT's",
 "ticker": "WLZ",
-"homepage": "https://whalezone.fr/stake.php"
+"homepage": "https://whalezone.fr/stake.php",
   "info": {
         "url_png_icon_64x64": "https://whalezone.fr/images/favicon.png",
         "url_png_logo": "https://whalezone.fr/images/favicon.png",
         "location": "France, French",
         "social": {
             "twitter_handle": "whale_zone"
-        },
+        }
+}
 }
